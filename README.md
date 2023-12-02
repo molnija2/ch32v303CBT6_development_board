@@ -2,6 +2,7 @@ CH32V303CBT6  riscv-processor simple development board
 
 1. Development board project for Kicad
 2. Example program for the TFT-240x240 SPI display use with several fonts
+(Use lcd_PutString() for latin and lcd_PutStringRus() for RUS symbols. "Привет" will be written as "Ghbdtn" (places of russian keys on you keyboard) in you programm...)
 This is project for IDE MountRiver Studio which is available here http://www.mounriver.com/
 
 CH32V303_305_307 series are 32-bit RISC core MCUs based on the RISC-V instruction set architecture (ISA),
