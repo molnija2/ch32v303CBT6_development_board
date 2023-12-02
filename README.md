@@ -1,7 +1,7 @@
 CH32V303CBT6  riscv-processor simple development board
 
 1. Development board project for Kicad
-2. Example program for the TFT-240x240 SPI display use with several fonts. This is project for IDE MountRiver Studio which is available here http://www.mounriver.com/
+2. Example program for the TFT-240x240 SPI display st7789 use with several fonts. This is project for IDE MountRiver Studio which is available here http://www.mounriver.com/
 
 (Use lcd_PutString() for latin and lcd_PutStringRus() for RUS symbols. "Привет" will be written as "Ghbdtn" (places of russian keys on you keyboard) in you programm...)
 
