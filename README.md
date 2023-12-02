@@ -8,21 +8,21 @@ CH32V303_305_307 series are 32-bit RISC core MCUs based on the RISC-V instructio
 with 144MHz operating frequency, and built-in high-speed memory.
 
 CH32V303CBT6 features
-Pin count 48
-Flash (bytes) 128K
-SRAM (bytes) 32K
-GPIO port count  37
+Pin count 48, 
+Flash (bytes) 128K, 
+SRAM (bytes) 32K, 
+GPIO port count  37, 
  
- 2*ADC(TKey)
-  2*DAC
-  ADTM
-  3*GPTM
-  3*USART
-  2*SPI
-  2*I2C
-  USBFS
-  CAN
-  RTC
-  2*WDG
-  4*OPA
+ 2*ADC(TKey), 
+  2*DAC, 
+  ADTM, 
+  3*GPTM, 
+  3*USART, 
+  2*SPI, 
+  2*I2C, 
+  USBFS, 
+  CAN, 
+  RTC, 
+  2*WDG, 
+  4*OPA, 
  
