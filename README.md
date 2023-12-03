@@ -26,4 +26,6 @@ GPIO port count  37,
   RTC, 
   2*WDG, 
   4*OPA, 
- 
+  
+ ![demo-preview](https://github.com/molnija2/ch32v303CBT6_development_board/assets/152687908/9ea38062-b941-4f3c-b8de-feadf2402e75)
+
