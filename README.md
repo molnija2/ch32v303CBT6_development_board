@@ -12,20 +12,12 @@ CH32V303CBT6 features
 Pin count 48, 
 Flash (bytes) 128K, 
 SRAM (bytes) 32K, 
-GPIO port count  37, 
- 
- 2*ADC(TKey), 
-  2*DAC, 
-  ADTM, 
-  3*GPTM, 
-  3*USART, 
-  2*SPI, 
-  2*I2C, 
-  USBFS, 
-  CAN, 
-  RTC, 
-  2*WDG, 
-  4*OPA, 
+
+GPIO port count  37,   2xADC(TKey),   2xDAC,    3xUSART, 
+  
+2xSPI,   2xI2C,   USBFS,   CAN,   RTC,   2xWDG,   4xOPA,
+
+  
   
  ![demo-preview](https://github.com/molnija2/ch32v303CBT6_development_board/assets/152687908/9ea38062-b941-4f3c-b8de-feadf2402e75)
 
